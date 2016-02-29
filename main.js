@@ -35,7 +35,7 @@ var math = high - low;
 
 math = high - "5";
 // Q: What is `math` set to?
-// A: 45
+// A: math should be set to 40 still and there should read an error. When I put this into the console it reads back 45 though.
 
 
 /* =========================================================
